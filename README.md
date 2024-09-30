@@ -17,3 +17,5 @@ The following features are added and updated in this child theme.
 - Wordpress SEO
 
 This child theme can be used directly by clone or download from this repo.
+## Demo site houzez
+https://uproperti.com
